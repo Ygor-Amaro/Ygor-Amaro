@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Ygor Amaro
 
-🎯 **Analista de Dados em transição para Engenharia de Dados** com sólida experiência no setor educacional, apaixonado por transformar dados em soluções reais.  
+🎯 **Analista de Dados em transição para Engenharia de Dados**.  
 📍 São Paulo, Brasil  
-📫 Contato: ykba09@gmail.com | [LinkedIn](https://www.linkedin.com/in/ygor-amaro-114613231)
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/ygor-amaro-114613231)
 
 ---
 
@@ -29,12 +29,6 @@ Além disso, sou pós-graduando em **User Experience (UX)**, o que me permite al
 
 (🔧 Em construção – vou preenchendo conforme novos projetos forem publicados)
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| `dashboards-powerbi` | Relatórios interativos para tomada de decisão | Power BI, Excel |
-| `etl-python-excel` | Automação de fluxo de dados com validações em planilhas | Python |
-| `ux-data-project` | Projeto integrando dados e UX para melhoria de experiência | Figma, Excel, BI |
-
 ---
 
 ## 📚 Formação & Certificações
@@ -49,7 +43,6 @@ Além disso, sou pós-graduando em **User Experience (UX)**, o que me permite al
 
 Se você está buscando um profissional com visão estratégica de dados, capacidade analítica e orientação ao usuário final, será um prazer conversar!
 
-📫 ykba09@gmail.com  
 🔗 [LinkedIn: Ygor Amaro](https://www.linkedin.com/in/ygor-amaro-114613231)
 
 ---
